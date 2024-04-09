@@ -18,20 +18,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<div align="center">👩‍💻  Обо мне</h3>
 
 ###
 
 <p align="left">Я начинающий Backend разработчик. Мой путь в it начался с образовательной платформы Stepick, где я прошел обучающие курсы по языку Python. После прохождения курсов был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Go, C++, попробовал свои силы в data science, но больше всего меня зацепила Backend разработка! В настоящий момент мое обучение непрерывно продолжается, но для окончательного закрепления навыков недостает реальной практики!🔭<br></p>
 
+###
+
+<div align="center">🛠 Технологии:</h3>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -54,7 +53,9 @@
 
 ### 
 
-<h3 align="left">📚 Пройденные курсы:</h3>
+<div align="center">📚 Пройденные курсы:</h3>
+
+### 
 
 | Наименование курса:                                             | Статус                       |
 | ----------------------------------------------------------------|:----------------------------:|
@@ -73,16 +74,18 @@
 
 ### 
 
-</div>
-<h3 align="left">💻 Leetcode:</h3>
+<div align="center">
   <a href="https://leetcode.com/nikitanikell567593" target="_blank">
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="25" alt="leetcode logo"  />
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="35" alt="leetcode logo"  />
   </a>
 </div>
 
 ###
 
-<a href="https://github.com/NikitaNikell" alt="https://github.com/NikitaNikell"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=NikitaNikell&color=000000"></a>
+<div align="center">
+  <a href="https://github.com/NikitaNikell" alt="https://github.com/NikitaNikell"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=NikitaNikell&color=000000">
+  </a>
+</div>
 
 ###
 
